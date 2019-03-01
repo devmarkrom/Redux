@@ -1,4 +1,3 @@
 ## Redux
 
-Polls App with store in Redux.
-# Redux
+Polls React Application with store in Redux.
